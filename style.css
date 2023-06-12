@@ -19,6 +19,16 @@
   border: 1px;
   background-color: lightpink;
 }
+.form{
+  margin-left: 55em;
+  margin-top:22px;
+  
+}
+.index{
+  background-image: url(images/homeimg.jpg);
+  background-size: cover;
+  background-position-x: right;
+}
 
 #head {
   margin-top: 50px;
