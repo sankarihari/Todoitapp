@@ -11,5 +11,5 @@ function login(callback) {
   }
 
   function todopage() {
-    window.location.href = 'index.html';
+    window.location.href = 'homepage.html';
   }
